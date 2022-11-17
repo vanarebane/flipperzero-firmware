@@ -18,7 +18,7 @@ const FuriHalRegion furi_hal_region_eu_ru = {
     .bands_count = 2,
     .bands = {
         {
-            .start = 433050000,
+            .start = 304100000,
             .end = 434790000,
             .power_limit = 12,
             .duty_cycle = 50,
